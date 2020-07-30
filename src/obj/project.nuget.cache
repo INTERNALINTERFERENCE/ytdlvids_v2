@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqB/+yPmYdm1jur2AizS6G74B5COk09/LT2+qtu+QUhh/Nik9Mb7s6n+MhgiwGLRzozdLTJMH0BBVKuwavn3ug==",
+  "success": true,
+  "projectFilePath": "C:\\Prog\\Projects\\ytdlvids_v2\\ytdlvids_v2\\ytdlvids_v2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lordd\\.nuget\\packages\\anglesharp\\0.14.0\\anglesharp.0.14.0.nupkg.sha512",
+    "C:\\Users\\Lordd\\.nuget\\packages\\cliwrap\\3.0.0\\cliwrap.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lordd\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Lordd\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lordd\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lordd\\.nuget\\packages\\xffmpeg.net\\3.4.0\\xffmpeg.net.3.4.0.nupkg.sha512",
+    "C:\\Users\\Lordd\\.nuget\\packages\\youtubeexplode\\5.1.2\\youtubeexplode.5.1.2.nupkg.sha512",
+    "C:\\Users\\Lordd\\.nuget\\packages\\youtubeexplode.converter\\1.5.1\\youtubeexplode.converter.1.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

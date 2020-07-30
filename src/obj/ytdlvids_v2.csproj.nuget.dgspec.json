@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Prog\\Projects\\ytdlvids_v2\\ytdlvids_v2\\ytdlvids_v2.csproj": {}
+  },
+  "projects": {
+    "C:\\Prog\\Projects\\ytdlvids_v2\\ytdlvids_v2\\ytdlvids_v2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Prog\\Projects\\ytdlvids_v2\\ytdlvids_v2\\ytdlvids_v2.csproj",
+        "projectName": "ytdlvids_v2",
+        "projectPath": "C:\\Prog\\Projects\\ytdlvids_v2\\ytdlvids_v2\\ytdlvids_v2.csproj",
+        "packagesPath": "C:\\Users\\Lordd\\.nuget\\packages\\",
+        "outputPath": "C:\\Prog\\Projects\\ytdlvids_v2\\ytdlvids_v2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lordd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "YoutubeExplode": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "YoutubeExplode.Converter": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "xFFmpeg.NET": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
