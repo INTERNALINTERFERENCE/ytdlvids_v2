@@ -50,10 +50,10 @@ namespace ytdlvids_v2
             await ffmpeg.ExecuteAsync($@"-i {Environment.CurrentDirectory}\Temp\video.mp4  -i {Environment.CurrentDirectory}\Temp\audio.wav -c:v copy -c:a aac -map 0:v:0 -map 1:a:0 -shortest {path}\video.mp4");
         }
 
-        private static void Manifest(string Url)
+        private static void Manifest(string url)
         {
-            var pos = Url.LastIndexOf('=') + 1;
-            _newUrl = Url.Substring(pos);
+            var pos = url.LastIndexOf('=') + 1;
+            _newUrl = url.Substring(pos);
         }
     }
 }
